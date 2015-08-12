@@ -1,0 +1,1 @@
+Sends out email updates to users whenever there are plugin updates available for their blogs, kind of for lazy people like me who hardly viist WordPress Admin other than checking on few things
